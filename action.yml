@@ -1,0 +1,5 @@
+name: 'A Testing Environment for Problem Solvers'
+description: 'Checks whether a Code which is Pushed, passed all the test cases or not for every Programming Problem'
+runs:
+  using: 'node12'
+  main: 'code-checker.js'

@@ -3,3 +3,6 @@ description: 'Checks whether a Code which is Pushed, passed all the test cases o
 runs:
   using: 'node12'
   main: 'code-checker.js'
+branding:
+  icon: 'check-circle'
+  color: 'black'
